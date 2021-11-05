@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636146799 source:c:\users\broke\onedrive\documentos\github\prueba\prueba\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
